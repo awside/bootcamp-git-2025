@@ -8,7 +8,11 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:**
 
+
+Andrew Whiteide (duo update with super fix) 
+
 Andrew Whiteide new 1 and Michael Fudge
+
 
 **Hobbies:**
 
