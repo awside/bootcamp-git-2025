@@ -8,11 +8,15 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:**
 
+
 Andrew Whiteide (duo update with super fix) 
+
+Andrew Whiteide new 1 and Michael Fudge
+
 
 **Hobbies:**
 
-Vibe Coding, Hiking, Reading, Cooking, Eating Pizza
+Vibe Coding, Hiking, Reading, Cooking, Eating Pizza and Saving puppies from burning buildings and Michael Fudge's Hobbies
 
 ## Section 1: Your First Commit
 
